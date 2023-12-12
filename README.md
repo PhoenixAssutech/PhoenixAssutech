@@ -3,7 +3,7 @@
 - 🌱 I’m looking for sea food, but I live in the desert ...
 
 ### Skills:
-- Backend Development: [List languages and frameworks]
+- Backend Development
 - Clean Architecture
 - Database Design
 - Object-Oriented Programming
