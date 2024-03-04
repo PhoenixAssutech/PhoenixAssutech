@@ -16,4 +16,4 @@
 - 💞️ I’m looking to collaborate on anything backend, Halla Me let`s collaborate on a project.
 
 ### How to reach me:
-- Email: amadu@waychit.com or aj22011021@utg.edu.gm
+- Email: 3472738atj@gmail.com or amadukjallow30@gmail.com
