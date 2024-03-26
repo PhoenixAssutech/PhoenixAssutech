@@ -8,7 +8,7 @@
 - System Architecture
 - Low Level Architecture
 - Polyglot Persistence
-- Polglot Programming
+- Polyglot Programming
 - Database Design and Database System
 - Object-Oriented Programming && Functional Programming
 - GraphQL && Restful API && gRPC
