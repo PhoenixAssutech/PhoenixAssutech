@@ -13,7 +13,7 @@
 - Object-Oriented Programming && Functional Programming
 - GraphQL && Restful API && gRPC
 - Message Brokers
-- Apache Kafka and Apache Pulsar for Event Streaming for Event Driven Architecture
+- Apache Kafka and Apache Pulsar for Event Streaming
 - Distributed Caching Implementation
 - Good Foundational Knowlegde of Networking Protocols and Operating System Concepts
 
